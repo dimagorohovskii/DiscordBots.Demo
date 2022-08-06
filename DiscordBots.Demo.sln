@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RolePlay.Common", "RolePlay.Common\RolePlay.Common.csproj", "{5F2DC182-05E8-4845-820D-741E7CBE7595}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RolePlay.GameData", "RolePlay.GameData\RolePlay.GameData.csproj", "{684CC038-2140-4D64-A84A-5BCFB69B470F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2DC182-05E8-4845-820D-741E7CBE7595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2DC182-05E8-4845-820D-741E7CBE7595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2DC182-05E8-4845-820D-741E7CBE7595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2DC182-05E8-4845-820D-741E7CBE7595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684CC038-2140-4D64-A84A-5BCFB69B470F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684CC038-2140-4D64-A84A-5BCFB69B470F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684CC038-2140-4D64-A84A-5BCFB69B470F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684CC038-2140-4D64-A84A-5BCFB69B470F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {295B300D-E7CA-4093-9F10-86BA50E8599F}
+	EndGlobalSection
+EndGlobal
